@@ -6,6 +6,8 @@ public class p2{
       public static void main(strgs[]){
           System.out.println("Added features");
           data();
+          System.out.println("Changes from feature1"); 
       }
+
 
 }
